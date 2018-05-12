@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41854'
     url: http://www.gutenberg.org/2009/agents/41854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42766#Report-of-the-Committee-Appointed-to-Investigate-the-Railroad-Riots-in-July-1877Read-in-the-S_
 gutenberg_issued: '2013-05-22'
 gutenberg_type: Text
 identifiers:
